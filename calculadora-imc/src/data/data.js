@@ -5,7 +5,7 @@ export const data = [
     classification: "Menor que 18,5",
     info: "Magreza",
     obesity: "0",
-    infoClass: "medium"
+    infoClass: "below"
   },
   {
     min: 18.5,
@@ -37,6 +37,6 @@ export const data = [
     classification: "Maior que 40,0",
     info: "Obesidade grave",
     obesity: "III",
-    infoClass: "height"
+    infoClass: "high"
   },
 ];
